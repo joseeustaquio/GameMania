@@ -8,6 +8,18 @@
 
 /*Produtos vendidos*/
 /*Rodapé*/
+footer{
+    text-align: center;
+    position: relative;
+    bottom: 0;
+}
+
+footer p{
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+}
+
 
 /*Botão Voltar topo*/
 
